@@ -17,7 +17,7 @@ To launch the methods you need to use creatTextfile() to create the files and af
 See how to use in Ex2_1 main method.
 
 ## Tests
-We ran for the same files those three static methods and printed the results to see they worked and their time.
+We ran for the same files those three static methods and printed the results to see they worked and their time, we created 19 files with max of 80 lines.
 
 ## Run Time
 ![image](https://user-images.githubusercontent.com/118976833/212316807-3a64561a-3f72-4625-91ad-0c9f014aeac4.png)
