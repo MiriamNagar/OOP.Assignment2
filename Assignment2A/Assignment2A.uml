@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Assignment2A</OriginalElement>
+  <nodes>
+    <node x="-489.72906403940874" y="231.0">Assignment2A.ThreadPool_GNOL</node>
+    <node x="313.63546798029563" y="187.0">Assignment2A.Thread_GNOL</node>
+    <node x="-85.0" y="209.5">Assignment2A.Ex2_1</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Assignment2A.Ex2_1" target="Assignment2A.ThreadPool_GNOL" relationship="CREATE">
+      <point x="0.0" y="-93.5" />
+      <point x="44.5" y="303.0" />
+      <point x="-360.22906403940874" y="303.0" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="Assignment2A.Ex2_1" target="Assignment2A.Thread_GNOL" relationship="CREATE">
+      <point x="129.5" y="0.0" />
+      <point x="-120.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9759615384615389" showDependencies="true" x="67.24630541871898" y="300.7241379310342" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
